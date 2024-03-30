@@ -10,6 +10,10 @@ npm install
 ```
 - Create your component on 'src/components' folder and register that on 'src/components/index.ts'
 - Preview your component on 'src/preview/Preview.jsx'
+- To Test The Component run 
+```bash
+npm run storybook
+```
 
 ## Build The Package
 To build the package run 
