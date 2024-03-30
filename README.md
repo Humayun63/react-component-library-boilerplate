@@ -25,3 +25,4 @@ npm publish
 Ensure that you have logged in with npm registry for publishing the package.
 
 
+[Packge Link](https://www.npmjs.com/package/my-plugin-my-components-react)

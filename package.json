@@ -1,6 +1,6 @@
 {
   "name": "my-plugin-my-components-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "description": "This is a react based component library",
   "files": [
